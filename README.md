@@ -8,7 +8,7 @@ Tired of juggling countless passwords or relying on weak, predictable combinatio
 
 ## Demo
 
-[**Click here**](https://harsh98trivedi.github.io/Password-Generator) to see a live demo of the Password Generator app.
+[**Click here**]() to see a live demo of the Password Generator app.
 
 ## Features
 
@@ -32,6 +32,6 @@ Tired of juggling countless passwords or relying on weak, predictable combinatio
 
 To run the Password Generator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/harsh98trivedi/password-generator.git`
+1. Clone the repository: `https://github.com/parthawasthi25/Password-Generator.git`
 2. Navigate to the project directory: `cd password-generator`
 3. Open the `index.html` file in your preferred web browser.
