@@ -1,6 +1,6 @@
 # Password Generator
 
-[![Password Generator](https://raw.githubusercontent.com/harsh98trivedi/Password-Generator/master/meta.jpg)](https://harsh98trivedi.github.io/Password-Generator)
+[![Password Generator]("C:\Users\parth\Desktop\Projects\Password Generator\Password-Generator\Password-Generator\meta.jpg")](https://harsh98trivedi.github.io/Password-Generator)
 
 **Craft Unbreakable Passwords with This Sleek Password Generator**
 
