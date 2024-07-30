@@ -8,7 +8,7 @@ Tired of juggling countless passwords or relying on weak, predictable combinatio
 
 ## Demo
 
-[**Click here**]() to see a live demo of the Password Generator app.
+[**Click here**](https://parthawasthi25.github.io/Password-Generator/) to see a live demo of the Password Generator app.
 
 ## Features
 
