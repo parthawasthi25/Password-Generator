@@ -298,15 +298,15 @@
             const passwordLength = password.length;
 
             if (hasUppercase && hasLowercase && hasNumbers && hasSymbols && passwordLength >= 18) {
-                return '<span style="color: #5bde98;">Super Strong 😎</span>';
+                return '<span style="color: #5bde98;">Super Strong</span>';
             } else if (hasUppercase && hasLowercase && hasNumbers && passwordLength >= 14) {
-                return '<span style="color: #38a169;">Strong 😃</span>';
+                return '<span style="color: #38a169;">Strong</span>';
             } else if (hasNumbers && hasUppercase && hasLowercase && passwordLength >= 10) {
-                return '<span style="color: #ecc94b;">Moderate 😐</span>';
+                return '<span style="color: #ecc94b;">Moderate</span>';
             } else if ((hasNumbers || hasUppercase || hasLowercase) && passwordLength >= 6) {
-                return '<span style="color: #e53e3e;">Weak 😟</span>';
+                return '<span style="color: #e53e3e;">Weak</span>';
             } else {
-                return '<span style="color: #b30000;">Very Weak 😱</span>';
+                return '<span style="color: #b30000;">Very Weak</span>';
             }
         }
 
