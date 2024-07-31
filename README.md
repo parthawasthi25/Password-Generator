@@ -1,7 +1,10 @@
+![meta](https://github.com/user-attachments/assets/7f70e1c7-7e52-4133-9267-bdbf30713003)
+
 # Password Generator
 
 
 **Craft Unbreakable Passwords with This Sleek Password Generator**
+
 
 Tired of juggling countless passwords or relying on weak, predictable combinations? This robust password generator is here to fortify your digital defense with unique, secure passwords that even the most persistent hackers will struggle to crack.
 
